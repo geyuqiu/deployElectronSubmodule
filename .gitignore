@@ -18,3 +18,4 @@ assets
 mac
 *.dmg
 *-mac.yml
+*.zip
