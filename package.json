@@ -34,6 +34,7 @@
       "assets": [
         "*.exe",
         "*.dmg",
+        "*.zip",
         "*.blockmap",
         "*.yml"
       ],
