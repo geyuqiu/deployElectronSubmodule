@@ -5,3 +5,13 @@ package-lock.json
 *.exe
 *.blockmap
 *.yaml
+*.map
+*.js
+*.txt
+*.woff
+*.woff2
+*.eot
+*.ttf
+assets
+*.html
+*.css
