@@ -1,8 +1,8 @@
-version: 1.2.27
+version: 1.2.30
 files:
-  - url: electron-boilerplate.Setup.1.2.27.exe
-    sha512: dskbimZhsoPwY7XkD4ptws9AwM2AGub4N5l1q+ORrf64k5N9hPVi0Bw159jL8Qk7FMxbZsD72ozzDS0CKrCiCA==
-    size: 62251979
-path: electron-boilerplate.Setup.1.2.27.exe
-sha512: dskbimZhsoPwY7XkD4ptws9AwM2AGub4N5l1q+ORrf64k5N9hPVi0Bw159jL8Qk7FMxbZsD72ozzDS0CKrCiCA==
-releaseDate: '2019-09-10T19:24:33.201Z'
+  - url: electron-boilerplate.Setup.1.2.30.exe
+    sha512: WVq1bLbccEunzssUfmI1HroEZ7hhjCPSEMhNEqPM4rvhkVNrq9661sr4Whobn9sIPv1P+OUi7NScuhYdJsQ+iw==
+    size: 62251853
+path: electron-boilerplate.Setup.1.2.30.exe
+sha512: WVq1bLbccEunzssUfmI1HroEZ7hhjCPSEMhNEqPM4rvhkVNrq9661sr4Whobn9sIPv1P+OUi7NScuhYdJsQ+iw==
+releaseDate: '2019-09-10T19:36:31.992Z'
