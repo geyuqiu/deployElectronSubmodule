@@ -1,6 +1,6 @@
 {
   "name": "acht-deploy-test",
-  "version": "1.2.28",
+  "version": "1.2.29",
   "description": "deployment test in submodule",
   "scripts": {
     "release": "release-it patch --non-interactive"
