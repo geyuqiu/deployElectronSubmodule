@@ -1,18 +1,10 @@
 #!/bin/bash
 
-echo "git diff --color | cat"
-git diff --color | cat
+echo "before: "
+cat latest.yml
 
-echo "git add -v ."
-git add latest.yml package.json
+echo "change dot to dash"
+sed -i '' 's/electron-boilerplate.setup./electron-boilerplate-setup-/g' latest.yml
 
-echo "git commit -m "
-git commit -m "$1"
-
-echo $1
-
-echo "git push"
-git push
-
-# echo "git checkout -f"
-# git checkout -f
+echo "after: "
+cat latest.yml
