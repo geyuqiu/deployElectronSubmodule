@@ -33,8 +33,9 @@
       "release": true,
       "assets": [
         "*.exe",
-        "*.exe.blockmap",
-        "latest.yml"
+        "*.dmg",
+        "*.blockmap",
+        "*.yml"
       ],
       "draft": false
     },
