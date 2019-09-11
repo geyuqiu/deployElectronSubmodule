@@ -1,8 +1,8 @@
-version: 1.2.32
+version: 1.2.33
 files:
-  - url: electron-boilerplate.Setup.1.2.32.exe
-    sha512: GoXLMjtKlrV4Ft+5g+Ed/CCFn3F96Qsu8JC6SOHBOaLbBPp8mICQXZ9ktSvp4T9gJ9jX4QnJzUIc/26jiqtQQQ==
-    size: 62251843
-path: electron-boilerplate.Setup.1.2.32.exe
-sha512: GoXLMjtKlrV4Ft+5g+Ed/CCFn3F96Qsu8JC6SOHBOaLbBPp8mICQXZ9ktSvp4T9gJ9jX4QnJzUIc/26jiqtQQQ==
-releaseDate: '2019-09-10T20:47:10.067Z'
+  - url: electron-boilerplate.Setup.1.2.33.exe
+    sha512: 8Kvc57WM+WxHL/tpTPYEalQpNcdU+40pTItKPMG8d+TQ+wfbAmekdZw+JZhC4JCbRzKDTsDxlO2ZtM3fOWp6iw==
+    size: 62330204
+path: electron-boilerplate.Setup.1.2.33.exe
+sha512: 8Kvc57WM+WxHL/tpTPYEalQpNcdU+40pTItKPMG8d+TQ+wfbAmekdZw+JZhC4JCbRzKDTsDxlO2ZtM3fOWp6iw==
+releaseDate: '2019-09-11T09:46:31.072Z'
