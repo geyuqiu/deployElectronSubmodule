@@ -1,8 +1,8 @@
 version: 1.2.39
 files:
   - url: electron-boilerplate.Setup.1.2.39.exe
-    sha512: ocbjiYbdT3j/5/H3YhHbhbbkRX4Mf/9QOCSZhqkVo34IX91ORFHNaGJV86nB9LAYSWfNbrNcuNY6HO1M4Hcwqw==
-    size: 51406124
+    sha512: R1waT/2eMNB1PQYUzidC9xKdA7YMN31Ocm3j9OdXYEB1L3hroXXDSQt0SxGLsWvWaxjC+MJgbBlSPWFMlj6/kg==
+    size: 51406253
 path: electron-boilerplate.Setup.1.2.39.exe
-sha512: ocbjiYbdT3j/5/H3YhHbhbbkRX4Mf/9QOCSZhqkVo34IX91ORFHNaGJV86nB9LAYSWfNbrNcuNY6HO1M4Hcwqw==
-releaseDate: '2019-09-16T12:51:03.399Z'
+sha512: R1waT/2eMNB1PQYUzidC9xKdA7YMN31Ocm3j9OdXYEB1L3hroXXDSQt0SxGLsWvWaxjC+MJgbBlSPWFMlj6/kg==
+releaseDate: '2019-09-16T13:06:43.453Z'
