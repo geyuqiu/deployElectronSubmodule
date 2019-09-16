@@ -1,8 +1,8 @@
 version: 1.2.41
 files:
-  - url: electron-boilerplate.Setup.1.2.41.exe
-    sha512: 5Xq4GaPQyLdxOwS5M6wxUWZMca2sUUAXV0WPdQEhR544pQGtoVoj1+VAS07ztagqXjzRgmznL8AlEMWY2OmdzA==
-    size: 52168751
-path: electron-boilerplate.Setup.1.2.41.exe
-sha512: 5Xq4GaPQyLdxOwS5M6wxUWZMca2sUUAXV0WPdQEhR544pQGtoVoj1+VAS07ztagqXjzRgmznL8AlEMWY2OmdzA==
-releaseDate: '2019-09-16T13:32:41.342Z'
+  - url: electron-boilerplate-Setup-1.2.41.exe
+    sha512: HOhvaeDxi0g5NS0RDH6vijiAYFOYWXWs+UHS+RNNp4OtfNno0YNquOgZowx3vQhd+ZYJiwHO8B1NppnVMydrbg==
+    size: 62544119
+path: electron-boilerplate-Setup-1.2.41.exe
+sha512: HOhvaeDxi0g5NS0RDH6vijiAYFOYWXWs+UHS+RNNp4OtfNno0YNquOgZowx3vQhd+ZYJiwHO8B1NppnVMydrbg==
+releaseDate: '2019-09-16T14:10:17.594Z'
