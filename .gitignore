@@ -19,3 +19,5 @@ mac
 *.dmg
 *-mac.yml
 *.zip
+*.yml
+latest.yml
