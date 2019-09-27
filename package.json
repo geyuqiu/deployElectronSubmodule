@@ -26,7 +26,7 @@
       "commit": true,
       "tag": false,
       "tagName": "v${version}",
-      "push": true,
+      "push": false,
       "requireCleanWorkingDir": false
     },
     "github": {
